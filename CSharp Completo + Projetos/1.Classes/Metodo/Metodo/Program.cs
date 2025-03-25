@@ -19,7 +19,6 @@ namespace Metodo
             y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-
            
             double areaX = x.Area();
             double areaY = y.Area();
